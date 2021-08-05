@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freeedosa
-- 👀 I’m interested in learing
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning networking and intending to earn a ccie
 - 💞️ I’m looking to collaborate on API for networks
 - 📫 How to reach me freeedosa1@gmail.com
